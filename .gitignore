@@ -1,0 +1,20 @@
+# Composer
+/vendor/
+
+# IDE
+/.idea
+.phpstorm.meta.php
+_ide_helper.php
+.php_cs.cache
+
+# macOS
+.DS_Store
+
+# Cache
+*.cache
+
+# Env
+.env
+.env.testing
+
+.phpunit.result.cache
